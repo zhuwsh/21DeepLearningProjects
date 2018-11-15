@@ -1,3 +1,4 @@
+以下内容来自自《21个项目玩转TensorFlow》一书。
 ### 2. CIFAR-10与ImageNet图像识别
 
 **2.1.2 下载CIFAR-10 数据**
